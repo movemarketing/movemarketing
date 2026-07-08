@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:253068,100:4F46E5&text=Kristian%20Ole%20R%C3%B8rbye&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=SEO%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20AI%20Visibility%20%E2%80%A2%20Founder%20of%20Move%20Marketing&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1E3A8A,100:38BDF8&text=Kristian%20Ole%20R%C3%B8rbye&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=SEO%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20AI%20Visibility%20%E2%80%A2%20Founder%20of%20Move%20Marketing&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=253068&center=true&vCenter=true&width=950&lines=Founder+of+Move+Marketing;SEO+specialist+since+2008;Building+AI+automation+solutions+for+businesses;Helping+brands+win+visibility+in+Google+and+AI+search;Based+in+Chiang+Mai%2C+Thailand;Building+websites%2C+SEO+systems+and+AI-powered+workflows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=1D4ED8&center=true&vCenter=true&width=950&lines=Founder+of+Move+Marketing;SEO+specialist+since+2008;Building+AI+automation+solutions+for+businesses;Helping+brands+win+visibility+in+Google+and+AI+search;Based+in+Chiang+Mai%2C+Thailand;Building+websites%2C+SEO+systems+and+AI-powered+workflows" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://move-marketing.ai">
-    <img src="https://img.shields.io/badge/Move%20Marketing%20AI-AI%20Automation-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Move%20Marketing%20AI-AI%20Automation-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
   </a>
   <a href="https://move-marketing.com">
-    <img src="https://img.shields.io/badge/Move%20Marketing%20EN-253068?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Move%20Marketing%20EN-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://move-marketing.dk">
-    <img src="https://img.shields.io/badge/Move%20Marketing%20DK-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Move%20Marketing%20DK-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://kristianole.dk">
-    <img src="https://img.shields.io/badge/KristianOle.dk-0F172A?style=for-the-badge&logo=hashnode&logoColor=white" />
+    <img src="https://img.shields.io/badge/KristianOle.dk-0369A1?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
   <a href="https://kristianole.com">
-    <img src="https://img.shields.io/badge/KristianOle.com-334155?style=for-the-badge&logo=hashnode&logoColor=white" />
+    <img src="https://img.shields.io/badge/KristianOle.com-0284C7?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </p>
 
